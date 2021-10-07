@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+      "target": "ESNext",
+      "removeComments": true,
+      "watch": true,
+      "outFile": "task1.js"
+  },
+  "files": ["task1.ts"],
+  "exclude": ["node_modules"],
+  "compileOnSave": true
+}
